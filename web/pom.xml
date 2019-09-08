@@ -18,6 +18,12 @@
 			<artifactId>javaee-web-api</artifactId>
 			<version>7.0</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.sonarsource.sonarlint.core/sonarlint-core -->
+<dependency>
+    <groupId>org.sonarsource.sonarlint.core</groupId>
+    <artifactId>sonarlint-core</artifactId>
+    <version>4.4.0.2561</version>
+</dependency>
 
 	</dependencies>
 	
