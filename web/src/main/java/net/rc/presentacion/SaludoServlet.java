@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 *
 */
 
-public class SaludoServlet extends HttpServlet implements Serializable
+public class SaludoServlet extends HttpServlet implements Serializabl
 {     
 	
 	private static final Logger LOGGER = Logger.getLogger( SaludoServlet.class.getName() );
